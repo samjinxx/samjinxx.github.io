@@ -7,7 +7,7 @@
 #   Output:
 #   <div class="video">
 #     <figure>
-#       <iframe width="640" height="480" src="//www.youtube.com/embed/Al9FOtZcadQ" allowfullscreen></iframe>
+#       <iframe width="640" height="480" src="//www.youtube.com/" allowfullscreen></iframe>
 #     </figure>
 #   </div>
 
