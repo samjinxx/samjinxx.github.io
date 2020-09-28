@@ -60,7 +60,7 @@ samslow:
     # stumbleupon:     <username>
     # paypal:          <username>
     email: mailto:cyworld4512@gmail.com
-    rss: https://samjinxx.github.io/feed.xml
+    #rss: https://samjinxx.github.io/feed.xml
 
 # Another author
 mdo:
