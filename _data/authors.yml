@@ -24,11 +24,11 @@ samslow:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook: samjinxx
+    facebook: 
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
-    youtube: samjinxx
+    youtube: 
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
@@ -59,8 +59,8 @@ samslow:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email: mailto:shsdf302@gmail.com
-    rss: https://samslow.github.io/feed.xml
+    email: mailto:cyworld4512@gmail.com
+    rss: https://samjinxx.github.io/feed.xml
 
 # Another author
 mdo:
