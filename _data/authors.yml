@@ -24,7 +24,7 @@ samslow:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook: 
+    facebook: profile.php?id=100011970794636
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
@@ -34,7 +34,7 @@ samslow:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       xamxin
+    instagram: xamxin
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
